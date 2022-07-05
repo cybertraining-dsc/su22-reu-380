@@ -18,11 +18,13 @@ abeckct@gmail.com
 ## Have not achieved
 - [ ] Fix Win32 library (virtualization) for wsl implementation
 - [ ] Read & learn slurm presentation
+- [ ] Read all Slack messages, update myself from what was done this weekend
 
 
 ## Will Accomplish Today 
 - [ ] Fix Win32 library (virtualization) for wsl implementation
 - [ ] Read & learn slurm presentation
+- [ ]Read all Slack messages, update myself from what was done this weekend
 
 ## Questions
 
