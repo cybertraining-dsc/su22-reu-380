@@ -6,25 +6,24 @@ jnn7nd@virginia.edu
 abeckct@gmail.com
 ```
 
-## Today's date: Tuesday, July 5, 2022
+## Today's date: Wednesday, July 6, 2022
 
 ## Have achieved
-- [x] Fix up graphviz tutorial (Fixed figures & labels)
-- [x] Fixed up all the figures & labels for all python graphics tutorials 
-  (matplotlib, bokeh, seaborn, pandas)
 - [x] Installed wsl2 on Windows 11
 - [x] Installed Ubuntu VirtualBox
+- [ ] Installed Docker
 
 ## Have not achieved
-- [ ] Fix Win32 library (virtualization) for wsl implementation
 - [ ] Read & learn slurm presentation
-- [ ] Read all Slack messages, update myself from what was done this weekend
+- [ ] Bookkeep all slack messages
+- [ ] Add 2 factor authentication to GitHub
+- [ ] Learn Docker + create mini-tutorial
 
-
-## Will Accomplish Today 
-- [ ] Fix Win32 library (virtualization) for wsl implementation
+## Will Accomplish Today
 - [ ] Read & learn slurm presentation
-- [ ]Read all Slack messages, update myself from what was done this weekend
+- [ ] Bookkeep all slack messages
+- [ ] Add 2 factor authentication to GitHub
+- [ ] Learn Docker + create mini-tutorial
 
 ## Questions
 
