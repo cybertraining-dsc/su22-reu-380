@@ -6,24 +6,29 @@ jnn7nd@virginia.edu
 abeckct@gmail.com
 ```
 
-## Today's date: Wednesday, July 6, 2022
+## Today's date: Thursday, July 7, 2022
 
 ## Have achieved
-- [x] Installed wsl2 on Windows 11
+- [x] Ran all pytests successfully on both wsl & ssh both locally and on Docker
+- [x] Learned Docker & finished documentation tutorial
+- [x] Reinstalled GitBash w/ pseudo console support
+- [x] Installed Docker
 - [x] Installed Ubuntu VirtualBox
-- [ ] Installed Docker
+- [x] Installed wsl2 on Windows 11
+
 
 ## Have not achieved
+- [ ] Go through FastAPI tutorial
+- [ ] Try to fix service.py
 - [ ] Read & learn slurm presentation
-- [ ] Bookkeep all slack messages
 - [ ] Add 2 factor authentication to GitHub
-- [ ] Learn Docker + create mini-tutorial
+
 
 ## Will Accomplish Today
+- [ ] Go through FastAPI tutorial
+- [ ] Try to fix service.py
 - [ ] Read & learn slurm presentation
-- [ ] Bookkeep all slack messages
 - [ ] Add 2 factor authentication to GitHub
-- [ ] Learn Docker + create mini-tutorial
 
 ## Questions
 
