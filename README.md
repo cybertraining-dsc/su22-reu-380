@@ -6,27 +6,24 @@ jnn7nd@virginia.edu
 abeckct@gmail.com
 ```
 
-## Today's date: Thursday, July 7, 2022
+## Today's date: Friday, July 8, 2022
 
 ## Have achieved
 - [x] Ran all pytests successfully on both wsl & ssh both locally and on Docker
 - [x] Learned Docker & finished documentation tutorial
 - [x] Reinstalled GitBash w/ pseudo console support
 - [x] Installed Docker
-- [x] Installed Ubuntu VirtualBox
-- [x] Installed wsl2 on Windows 11
-
 
 ## Have not achieved
+- [ ] Implement workflow in REST service
 - [ ] Go through FastAPI tutorial
-- [ ] Try to fix service.py
 - [ ] Read & learn slurm presentation
 - [ ] Add 2 factor authentication to GitHub
 
 
 ## Will Accomplish Today
+- [ ] Implement workflow in REST service
 - [ ] Go through FastAPI tutorial
-- [ ] Try to fix service.py
 - [ ] Read & learn slurm presentation
 - [ ] Add 2 factor authentication to GitHub
 
