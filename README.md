@@ -9,22 +9,24 @@ abeckct@gmail.com
 ## Today's date: Friday, July 8, 2022
 
 ## Have achieved
+- [x] Go through FastAPI tutorial
+- [x] Read & learn slurm presentation
 - [x] Ran all pytests successfully on both wsl & ssh both locally and on Docker
 - [x] Learned Docker & finished documentation tutorial
 - [x] Reinstalled GitBash w/ pseudo console support
 - [x] Installed Docker
 
 ## Have not achieved
+- [ ] Complete Workflow Service Manager (run, dependencies, status, graph)
 - [ ] Implement workflow in REST service
-- [ ] Go through FastAPI tutorial
-- [ ] Read & learn slurm presentation
 - [ ] Add 2 factor authentication to GitHub
 
 
 ## Will Accomplish Today
+- [ ] Complete Workflow Service Manager (run, dependencies, status, graph)
 - [ ] Implement workflow in REST service
-- [ ] Go through FastAPI tutorial
-- [ ] Read & learn slurm presentation
+- [x] Go through FastAPI tutorial
+- [x] Read & learn slurm presentation
 - [ ] Add 2 factor authentication to GitHub
 
 ## Questions
