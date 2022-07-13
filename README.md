@@ -6,7 +6,7 @@ jnn7nd@virginia.edu
 abeckct@gmail.com
 ```
 
-## Today's date: Tuesday, July 12, 2022
+## Today's date: Wednesday, July 13, 2022
 
 ## Have achieved
 - [x] Completed makefile for AI docs
@@ -14,12 +14,14 @@ abeckct@gmail.com
 - [x] Go through FastAPI tutorial
 
 ## Have not achieved
+- [ ] Complete more efficient workfile (DL)
 - [ ] Complete Workflow Service Manager (run, dependencies, status, graph)
 - [ ] Implement workflow in REST service
 - [ ] Add 2 factor authentication to GitHub
 
 
 ## Will Accomplish Today
+- [ ] Complete more efficient workfile (DL)
 - [ ] Complete Workflow Service Manager (run, dependencies, status, graph)
 - [ ] Implement workflow in REST service
 - [ ] Add 2 factor authentication to GitHub
