@@ -6,25 +6,25 @@ jnn7nd@virginia.edu
 abeckct@gmail.com
 ```
 
-## Today's date: Wednesday, July 13, 2022
+## Today's date: Friday, July 22, 2022
 
 ## Have achieved
-- [x] Completed makefile for AI docs
-- [x] Completed docker tutorial
-- [x] Go through FastAPI tutorial
+- [x] Got a working version of Python 3.10.5 with ENV3 virtual environment
+on Rivanna through Conda
+- [x] Completed Rivanna documentation
+- [x] Completed Rivanna Tensorflow documentation
+- [x] Ran all mnist files successfully without container
 
 ## Have not achieved
-- [ ] Complete more efficient workfile (DL)
-- [ ] Complete Workflow Service Manager (run, dependencies, status, graph)
-- [ ] Implement workflow in REST service
-- [ ] Add 2 factor authentication to GitHub
+- [ ] 
 
 
 ## Will Accomplish Today
-- [ ] Complete more efficient workfile (DL)
-- [ ] Complete Workflow Service Manager (run, dependencies, status, graph)
-- [ ] Implement workflow in REST service
-- [ ] Add 2 factor authentication to GitHub
+- [ ] Section out Rivanna documentation (Rivanna, Tensorflow, SBatch)
+- [ ] Integrate gpus in .sh files and make sure it can run correctly on Rivanna
+- [ ] Figure out node, user, and tag in the iPython notebooks
+- [ ] Figure out how to use Papermill to run the ipynb directly
+- [ ] Polish up on the Rivanna documentation
 
 ## Questions
 
