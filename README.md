@@ -57,7 +57,7 @@ the class I learned about:
 * Static Methods
 * Didn't realize how much of a beginner I am
 
-## What I Learned from C4GC:
+## What I Learned from the REU:
 
 After participating in the C4GC program, so far, I've learned:
 
