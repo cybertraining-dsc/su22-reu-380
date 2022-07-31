@@ -59,7 +59,7 @@ the class I learned about:
 
 ## What I Learned from the REU:
 
-After participating in the C4GC program, so far, I've learned:
+After participating in the REU for cybertraining, so far, I have learned:
 
 * Classes
 * Matplotlib
